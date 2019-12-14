@@ -1,0 +1,54 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 209.31059 66.597473"
+   height="66.597473mm"
+   width="209.31059mm">
+  <g
+     transform="translate(-0.48007479,-112.00106)"
+     id="layer1">
+    <g
+       style="fill:#008080;fill-opacity:0.34513275"
+       id="g909">
+      <path
+         points="0.48006957,178.59854 61.406149,151.48492 61.406149,112.00106 0.48006957,139.11468 "
+         d="m 0.48006957,139.11468 v 39.48386 L 61.406149,151.48492 v -39.48386 z"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path911" />
+      <path
+         points="209.79067,112.00106 209.79067,151.48492 61.406149,151.48492 61.406149,112.00106 "
+         d="m 61.406149,112.00106 148.384521,0 v 39.48386 H 61.406149 Z"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path921" />
+      <path
+         points="148.86459,178.59854 209.79067,151.48492 61.406149,151.48492 0.48006957,178.59854 "
+         d="m 0.48006957,178.59854 148.38452043,0 60.92608,-27.11362 H 61.406149 Z"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path919" />
+      <path
+         points="148.86459,139.11468 209.79067,112.00106 61.406149,112.00106 0.48006957,139.11468 "
+         d="m 0.48006957,139.11468 148.38452043,0 60.92608,-27.11362 -148.384521,0 z"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path913" />
+      <path
+         points="148.86459,178.59854 209.79067,151.48492 209.79067,112.00106 148.86459,139.11468 "
+         d="m 148.86459,139.11468 v 39.48386 l 60.92608,-27.11362 v -39.48386 z"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path917" />
+      <path
+         points="148.86459,139.11468 148.86459,178.59854 0.48006957,178.59854 0.48006957,139.11468 "
+         d="m 0.48006957,139.11468 148.38452043,0 v 39.48386 l -148.38452043,0 z"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         id="path915" />
+    </g>
+    <path
+       id="rect937"
+       d="M 61.406151,112.00106 H 209.79067 l -60.92608,27.11362 -69.111618,0.75595 -79.27290084,-0.75595 z"
+       style="fill:#008080;fill-opacity:0.34513275;stroke-width:0.26458332" />
+  </g>
+</svg>

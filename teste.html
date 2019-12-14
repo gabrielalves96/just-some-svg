@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<head>
+    <title>learning svg</title>
+    <style>
+        .html {
+            margin: 0;
+        }
+        .mainsvg {
+            transform: scaleY(-1);
+        }
+    </style>
+</head>
+
+<body>
+    <button onclick="changesvg()">clickme</button>
+    <svg class="mainsvg" height="660px" width="100%" viewBox="0 25 100 15" preserveAspectRatio="none">
+        <g>
+            <path id="animatesvg" d="M100,30 Q70,30 50,30 T0,30 v10 h100Z" style="fill:#ff7685; stroke-linejoin:round; stroke:#ffffff"
+                stroke-width="0" />
+        </g>
+    </svg>
+    <script src='./main.js'></script>
+</body>
+
+</html>
